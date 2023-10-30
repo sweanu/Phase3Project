@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-30T06:19:50Z" name="Default suite" finished-at="2023-10-30T06:19:53Z" duration-ms="3214">
+    <groups>
+    </groups>
+    <test started-at="2023-10-30T06:19:50Z" name="Default test" finished-at="2023-10-30T06:19:53Z" duration-ms="3214">
+      <class name="restAPI.EndtoEndTest">
+        <test-method signature="runtestCases()[pri:0, instance:restAPI.EndtoEndTest@1e8b7643]" started-at="2023-10-30T06:19:50Z" name="runtestCases" finished-at="2023-10-30T06:19:53Z" duration-ms="3188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runtestCases -->
+      </class> <!-- restAPI.EndtoEndTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
